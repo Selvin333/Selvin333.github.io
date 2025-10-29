@@ -18,7 +18,7 @@ h1 {
     border-radius: 20%;/*rounds the edges of each block*/
 }
 .project img{
-    width: 300px;
+    width: 100px;
     height: 300px;
     margin: 10px;
     border: 2px solid rgb(10, 111, 54); /* choose a color */
