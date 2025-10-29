@@ -15,11 +15,11 @@ h1 {
     margin: 10px;
     padding: 20px 10px;
     background: rgb(0, 85, 255);
-    border-radius: 25%;/*rounds the edges of each block*/
+    border-radius: 20%;/*rounds the edges of each block*/
 }
 .project img{
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     margin: 10px;
     border: 2px solid rgb(10, 111, 54); /* choose a color */
     display: block;
