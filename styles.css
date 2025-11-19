@@ -39,6 +39,7 @@ a { /* change the appearance of ALL links */
     font-weight: bold;
     font-size: 24px;
     font-family: 'Times New Roman', sans-serif;
+    background-color: white;
 }
 .section-title {
     padding-right: 50%;
@@ -49,6 +50,7 @@ a { /* change the appearance of ALL links */
     font-weight: bold;
     font-family: 'Times New Roman', sans-serif;
     color: black;
+    background-color: white;
 }
 .section-content {
     padding-left: 50%;
@@ -57,11 +59,9 @@ a { /* change the appearance of ALL links */
     font-size: 16px;
     font-family: 'Times New Roman', sans-serif;
     color: black;
+    background-color: white;
 }
 h3 {
     color: black;
     text-align: center;
-}
-div1 {
-    background: white;
 }
