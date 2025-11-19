@@ -41,7 +41,7 @@ a { /* change the appearance of ALL links */
     font-family: 'Times New Roman', sans-serif;
 }
 .section-title {
-    padding-right: 50%;
+    padding-right: 35%;
     min-height: 25%;
     text-align: left;
     float: left;
