@@ -42,7 +42,7 @@ a { /* change the appearance of ALL links */
     background: white;
 }
 .section-title {
-    padding-right: 50%;
+    padding-right: 35%;
     min-height: 25%;
     text-align: left;
     float: left;
@@ -53,7 +53,8 @@ a { /* change the appearance of ALL links */
     background: white;
 }
 .section-content {
-    padding-left: 50%;
+    padding-left: 20%;
+    padding-right: 45%;
     text-align: left;
     float: right;
     font-size: 16px;
