@@ -35,16 +35,16 @@ a { /* change the appearance of ALL links */
 }
 .header {
     text-align: center;
-    padding: 20px;
+    padding: 15px;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 24px;
     font-family: 'Times New Roman', sans-serif;
 }
 .section-title {
     width: 50%;
-    height: 30px;
-    text-align: center;
-    font-size: 24px;
+    text-align: left;
+    float: left;
+    font-size: 12px;
     font-weight: bold;
     font-family: 'Times New Roman', sans-serif;
     color: black;
@@ -52,7 +52,8 @@ a { /* change the appearance of ALL links */
 .section-content {
     width: 50%;
     text-align: left;
-    font-size: 16px;
+    float: right;
+    font-size: 12px;
     line-height: 1.6;
     font-family: 'Times New Roman', sans-serif;
     color: black;
