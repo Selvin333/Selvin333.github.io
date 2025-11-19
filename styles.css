@@ -42,7 +42,7 @@ a { /* change the appearance of ALL links */
 }
 .section-title {
     width: 50%;
-    height: 25%;
+    max-height: 25%;
     text-align: left;
     float: left;
     font-size: 16px;
