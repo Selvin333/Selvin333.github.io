@@ -47,3 +47,7 @@ a { /* change the appearance of ALL links */
     font-family: 'Times New Roman', sans-serif;
     color: black;
 }
+h3 {
+    color: black;
+    text-align: center;
+}
