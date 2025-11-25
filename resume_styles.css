@@ -8,8 +8,6 @@
 }
 .section-title {
     width: 25%;
-    text-align: left;
-    float: left;
     font-size: 16px;
     font-weight: bold;
     font-family: 'Times New Roman', sans-serif;
@@ -18,10 +16,17 @@
 }
 .section-content {
     width: 75%;
-    text-align: left;
-    float: right;
     font-size: 16px;
     font-family: 'Times New Roman', sans-serif;
     color: black;
     background: white;
+}
+ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+hr {
+    border: 0;
+    border-top: 2px solid #2c3e50;
+    margin: 10px 0 20px 0;
 }
