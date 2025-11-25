@@ -5,6 +5,10 @@
     font-size: 24px;
     background: white;
 }
+.section {
+    display: flex;
+    margin-bottom: 20px;
+}
 .section-title {
     width: 25%;
     font-size: 16px;
