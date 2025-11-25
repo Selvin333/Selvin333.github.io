@@ -7,8 +7,7 @@
     background: white;
 }
 .section-title {
-    padding-right: 35%;
-    min-height: 25%;
+    width: 25%;
     text-align: left;
     float: left;
     font-size: 16px;
@@ -18,8 +17,7 @@
     background: white;
 }
 .section-content {
-    padding-left: 20%;
-    padding-right: 45%;
+    width: 75%;
     text-align: left;
     float: right;
     font-size: 16px;
