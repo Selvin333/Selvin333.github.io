@@ -3,21 +3,18 @@
     padding: 15px;
     font-weight: bold;
     font-size: 24px;
-    font-family: 'Times New Roman', sans-serif;
     background: white;
 }
 .section-title {
     width: 25%;
     font-size: 16px;
     font-weight: bold;
-    font-family: 'Times New Roman', sans-serif;
     color: black;
     background: white;
 }
 .section-content {
     width: 75%;
     font-size: 16px;
-    font-family: 'Times New Roman', sans-serif;
     color: black;
     background: white;
 }
@@ -29,4 +26,8 @@ hr {
     border: 0;
     border-top: 2px solid #2c3e50;
     margin: 10px 0 20px 0;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
 }
