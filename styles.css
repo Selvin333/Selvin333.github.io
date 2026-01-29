@@ -7,13 +7,14 @@ h1 {
     text-align: center;
 }
 .projects {
+    padding: 20px;
     display:flex;
     flex-wrap:wrap; /*Wraps around every project*/
 }
 .project {
     width: 30%;
     margin: 10px;
-    padding: 20% 10px;
+    padding: 20px 10px;
     background: rgb(0, 85, 255);
     border-radius: 20%;/*rounds the edges of each block*/
 }
